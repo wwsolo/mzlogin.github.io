@@ -16,9 +16,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+**[在线预览 &rarr;](https://wkh520.com)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](https://wkh520.com/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
