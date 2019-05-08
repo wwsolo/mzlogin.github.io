@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://wkh520.com
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 王大妞
+subtitle: "人生"
+description: "王大妞的个人博客"
+keywords: 代码, IT技术, 大数据, Git, Blog, Github
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
