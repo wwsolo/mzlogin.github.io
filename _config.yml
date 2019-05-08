@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: wwsolo.github.io.git
+repository: wwsolo.github.io
 
 # ---------------- #
 #      Comments    #
