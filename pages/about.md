@@ -1,18 +1,20 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 王大妞的博客
+keywords: Wang wei, IT
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+也许曲终人散之后，
 
-仰慕「优雅编码的艺术」。
+离开的离开，忘记的忘记，
 
-坚信熟能生巧，努力改变人生。
+然而旋律最好的时候，
+
+感谢上天让我们在一起。
 
 ## 联系
 
