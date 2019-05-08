@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: wwsolo.github.io
+repository: mzlogin/mzlogin.github.io
 
 # ---------------- #
 #      Comments    #
