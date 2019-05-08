@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.wkh520.com
+url: "http://www.wkh520.com"
 date_format: "ordinal"
 title: 码志
 subtitle: "打码改变人生"
