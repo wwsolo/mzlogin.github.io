@@ -1,26 +1,17 @@
-- name: 码志
-  url: http://mazhuang.org
+- name: 王大妞博客
+  url: http://wkh520.com
 
-- name: Connie 酱
-  url: https://connie99.github.io
+- name: 酷壳
+  url: https://coolshell.cn
 
-- name: 只宁静不致远
-  url: http://zxning.github.io
+- name: 有趣网址之家
+  url:https://youquhome.com/
 
-- name: Blog Something
-  url: http://chenxiaoyoyo.github.io
+- name: 思否
+  url: https://segmentfault.com/
 
-- name: 日新亭
-  url: http://www.fengerzh.com/
+- name: chiphell
+  url: https://www.chiphell.com/
 
-- name: 叮咚购
-  url: http://www.ringwang.com/
-
-- name: wanandroid
-  url: http://www.wanandroid.com/
-
-- name: ZZY补完计划
-  url: https://zzycreate.github.io/
-
-- name: 村农
-  url: http://www.why-dong.com/
+- name: leetcode
+  url: https://leetcode.com/
