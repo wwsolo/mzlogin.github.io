@@ -5,7 +5,7 @@ baseurl:
 url: http://wkh520.com
 date_format: "ordinal"
 title: 王大妞
-subtitle: "人生"
+subtitle: "睡眠很长，人生很短"
 description: "王大妞的个人博客"
 keywords: 代码, IT技术, 大数据, Git, Blog, Github
 timezone: Asia/Shanghai
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Wang wei
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: wwsolo
+location: CD, China
+email: 848074276@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: wwsolo.github.io.git
 
 # ---------------- #
 #      Comments    #
